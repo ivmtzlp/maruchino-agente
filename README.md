@@ -158,27 +158,55 @@ Abre `http://localhost:5500` en tu navegador.
 
 ## 💬 Ejemplos de consultas (Q&A)
 
-> Reemplaza las respuestas con las reales obtenidas en tus pruebas.
+
 
 **Salubridad**
+
 > **P:** ¿Cada cuánto se debe limpiar la máquina de café?
-> **R:** [respuesta del agente]
+
+>> **R:** Según el manual, la frecuencia de limpieza es la siguiente:
+Tras cada uso: Limpieza de lancetas de vapor (purgado y paño húmedo).
+Al finalizar cada turno: Limpieza rápida.
+Diario (al cierre): Retro-lavado de grupos con detergente específico, purgado y cepillado de portafiltros.
+Semanal: Desmontaje de duchas y filtros para desincrustar.
+Mantenimiento profundo: Siguiendo el programa establecido por el fabricante.
 
 **Seguridad**
+
 > **P:** ¿Dónde se encuentran los extintores del establecimiento?
-> **R:** [respuesta del agente]
+
+>> **R:** Los extintores portátiles (clase ABC y K) se encuentran ubicados en:
+1. Junto a la salida de emergencia principal.
+2. Área de cocina.
+3. Pasillo de acceso al baño.
 
 **Promociones**
+
 > **P:** ¿Qué promociones hay este mes?
-> **R:** [respuesta del agente]
+
+>> **R:** Las promociones del mes de Julio 2026 son:
+Jazz Warm-Up: Latte Vainilla (300 ml) + galleta de mantequilla de regalo por $65 MXN (Lunes a Miércoles, de 14:00 a 18:00 hrs).
+Chill & Refresca: 2x1 en Limonada Hierbabuena o Cold Brew (Jueves y Viernes, de 15:00 a 19:00 hrs).
+30% de descuento: Precios desde $45 MXN en áreas con tolerancia de consumo de cannabis (Martes a Jueves, de 18:00 a 21:00 hrs).
+Club Maruchino Velvet (Tarjeta de lealtad): En la compra de 5 bebidas o sopas a precio regular, la 6ª es gratis (a elegir entre Cappuccino Clásico, Cold Brew o Maruchan Base) (Válido todo el mes).
 
 **Recetas**
+
 > **P:** ¿Cómo se prepara la Maruchan de la casa?
-> **R:** [respuesta del agente]
+
+>> **R:** Para preparar la Maruchan de la casa sigue estos pasos:
+1. Hervir el agua.
+2. Verter 400 ml sobre la sopa.
+3. Agregar el sazonador.
+4. Tapar durante 3 minutos.
+5. Mezclar antes de servir.
+Presentación: Servir sobre una charola con servilleta y palillos.
 
 **Control anti-alucinación**
+
 > **P:** ¿Quién ganó el mundial de 2022?
-> **R:** No lo sé.
+
+>> **R:** No lo sé.
 
 ---
 
