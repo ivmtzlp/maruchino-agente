@@ -4,6 +4,8 @@ Asistente interno de IA para la cafetería **Maruchino**. Responde consultas del
 
 Proyecto desarrollado para el Challenge de Alura / Oracle Next Education (ONE).
 
+Se puede ejecutar en: http://40.233.18.3:8000/
+
 ---
 
 ## 📋 Descripción
