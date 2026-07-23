@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asistente Maruchino ☕</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="chat-container">
+    <header class="chat-header">
+      <h1>☕ Asistente Maruchino</h1>
+      <p>Consulta salubridad, seguridad, promociones y recetas</p>
+    </header>
+
+    <div id="mensajes" class="mensajes">
+      <div class="mensaje bot">
+        ¡Hola! Soy el asistente interno de Maruchino. Pregúntame sobre
+        salubridad, seguridad, promociones del mes o recetas.
+      </div>
+    </div>
+
+    <form id="form-chat" class="chat-input">
+      <input type="text" id="entrada" placeholder="Escribe tu pregunta..."
+             autocomplete="off" required>
+      <button type="submit" id="btn-enviar">Enviar</button>
+    </form>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
